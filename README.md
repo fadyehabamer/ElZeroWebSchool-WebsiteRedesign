@@ -1,2 +1,4 @@
-# El-Zero-Web-School-Redesign-Website
- Using Html5 / Css3
+# El Zero Web School Website Redesign
+#### Using
+ - Html5 
+ - Css3
